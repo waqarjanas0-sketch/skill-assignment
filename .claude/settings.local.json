@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(skill-creator)",
+      "Skill(skill-creator-enhanced)",
+      "Bash(scripts/package_skill.py:*)"
+    ]
+  }
+}
